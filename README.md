@@ -18,5 +18,5 @@ A project for learning MLOps with Scikit-Learn and Git
 - Track experiments systematically
 
 ## �� Author
-- Student: [Your Name]
-- ID: [Student ID]
+- Student: Pichayoot Tunpoon
+- ID: 66070299
